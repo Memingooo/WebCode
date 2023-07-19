@@ -1,2 +1,2 @@
-# WebCode
+# YES-Website
 WebCode Spectrometer
